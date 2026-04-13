@@ -1,0 +1,21 @@
+staff_id,staff_name,role,total_appts_handled,avg_sla_pct,total_escalations,avg_followup_pct,avg_handle_min
+S010,Staff_10,Receptionist,6811,90.5,222,77.4,14.3
+S017,Staff_17,Patient Coordinator,6703,89.5,201,74.7,14.1
+S014,Staff_14,Admin Officer,6344,89.3,214,75.7,14.1
+S013,Staff_13,Nurse,6916,89.3,216,75.5,13.8
+S004,Staff_04,Admin Officer,6374,89.1,249,76.4,14.3
+S011,Staff_11,Admin Officer,7135,89.0,192,74.7,13.7
+S002,Staff_02,Patient Coordinator,6649,89.0,182,73.0,14.2
+S018,Staff_18,Admin Officer,6609,88.9,197,75.5,13.4
+S006,Staff_06,Receptionist,6615,88.8,209,76.4,14.4
+S012,Staff_12,Nurse,6485,88.7,221,74.8,13.3
+S015,Staff_15,Admin Officer,6636,88.7,227,76.3,13.6
+S020,Staff_20,Admin Officer,6862,88.4,193,75.1,13.6
+S008,Staff_08,Nurse,6753,88.4,217,75.9,13.7
+S019,Staff_19,Nurse,6713,88.3,207,76.2,13.9
+S007,Staff_07,Nurse,7040,87.9,197,75.9,13.5
+S005,Staff_05,Nurse,6751,87.8,202,73.9,14.3
+S016,Staff_16,Patient Coordinator,6424,87.7,226,74.6,13.9
+S003,Staff_03,Receptionist,6897,87.6,212,73.7,13.5
+S009,Staff_09,Nurse,6411,86.8,222,75.1,13.6
+S001,Staff_01,Nurse,6773,86.7,207,75.0,13.9

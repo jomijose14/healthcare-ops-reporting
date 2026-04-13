@@ -1,0 +1,8 @@
+specialty,total_appts,completed,no_shows,total_revenue,avg_fee,no_show_rate
+Cardiology,546,324,117,129600,400,21.4
+Orthopedics,550,346,92,121100,350,16.7
+Gynecology,591,351,120,105300,300,20.3
+Dermatology,577,348,110,87000,250,19.1
+ENT,563,335,113,73700,220,20.1
+Pediatrics,578,339,118,67800,200,20.4
+General Practice,595,337,142,50550,150,23.9

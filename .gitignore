@@ -1,0 +1,5 @@
+echo venv/ > .gitignore
+echo __pycache__/ >> .gitignore
+echo *.json >> gitignore
+echo .env >> .gitignore
+echo data/cleaned/ >> .gitignore

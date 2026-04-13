@@ -1,0 +1,23 @@
+============================================================
+RECONCILIATION SUMMARY REPORT
+Healthcare Operations Reporting Automation
+Generated: 2026-04-13 16:38
+============================================================
+
+Total records compared   : 4,000
+Total issues detected    : 607
+
+BREAKDOWN BY ISSUE TYPE:
+  Follow-up gap                      :  409 (67.4%)
+  Missing status in CRM              :  112 (18.5%)
+  Revenue discrepancy                :   76 (12.5%)
+  Scheduling conflict                :   10 (1.6%)
+
+RECOMMENDATIONS:
+  1. Investigate CRM sync lag for missing status records
+  2. Review revenue rounding rules between CRM and OPS systems
+  3. Contact patients with scheduling conflicts to reschedule
+  4. Assign follow-up calls for all flagged gap appointments
+
+Full details: reports/reconciliation_report.csv
+============================================================

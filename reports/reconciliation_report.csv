@@ -1,0 +1,608 @@
+appointment_id,issue_type,detail
+A00010,Missing status in CRM,CRM has no status — possible sync lag
+A00036,Missing status in CRM,CRM has no status — possible sync lag
+A00072,Missing status in CRM,CRM has no status — possible sync lag
+A00188,Missing status in CRM,CRM has no status — possible sync lag
+A00229,Missing status in CRM,CRM has no status — possible sync lag
+A00314,Missing status in CRM,CRM has no status — possible sync lag
+A00322,Missing status in CRM,CRM has no status — possible sync lag
+A00355,Missing status in CRM,CRM has no status — possible sync lag
+A00432,Missing status in CRM,CRM has no status — possible sync lag
+A00568,Missing status in CRM,CRM has no status — possible sync lag
+A00570,Missing status in CRM,CRM has no status — possible sync lag
+A00579,Missing status in CRM,CRM has no status — possible sync lag
+A00585,Missing status in CRM,CRM has no status — possible sync lag
+A00664,Missing status in CRM,CRM has no status — possible sync lag
+A00713,Missing status in CRM,CRM has no status — possible sync lag
+A00861,Missing status in CRM,CRM has no status — possible sync lag
+A00898,Missing status in CRM,CRM has no status — possible sync lag
+A00964,Missing status in CRM,CRM has no status — possible sync lag
+A00966,Missing status in CRM,CRM has no status — possible sync lag
+A00969,Missing status in CRM,CRM has no status — possible sync lag
+A01017,Missing status in CRM,CRM has no status — possible sync lag
+A01030,Missing status in CRM,CRM has no status — possible sync lag
+A01035,Missing status in CRM,CRM has no status — possible sync lag
+A01079,Missing status in CRM,CRM has no status — possible sync lag
+A01159,Missing status in CRM,CRM has no status — possible sync lag
+A01236,Missing status in CRM,CRM has no status — possible sync lag
+A01247,Missing status in CRM,CRM has no status — possible sync lag
+A01260,Missing status in CRM,CRM has no status — possible sync lag
+A01362,Missing status in CRM,CRM has no status — possible sync lag
+A01363,Missing status in CRM,CRM has no status — possible sync lag
+A01381,Missing status in CRM,CRM has no status — possible sync lag
+A01407,Missing status in CRM,CRM has no status — possible sync lag
+A01446,Missing status in CRM,CRM has no status — possible sync lag
+A01447,Missing status in CRM,CRM has no status — possible sync lag
+A01483,Missing status in CRM,CRM has no status — possible sync lag
+A01511,Missing status in CRM,CRM has no status — possible sync lag
+A01554,Missing status in CRM,CRM has no status — possible sync lag
+A01589,Missing status in CRM,CRM has no status — possible sync lag
+A01648,Missing status in CRM,CRM has no status — possible sync lag
+A01667,Missing status in CRM,CRM has no status — possible sync lag
+A01688,Missing status in CRM,CRM has no status — possible sync lag
+A01689,Missing status in CRM,CRM has no status — possible sync lag
+A01712,Missing status in CRM,CRM has no status — possible sync lag
+A01730,Missing status in CRM,CRM has no status — possible sync lag
+A01735,Missing status in CRM,CRM has no status — possible sync lag
+A01787,Missing status in CRM,CRM has no status — possible sync lag
+A01798,Missing status in CRM,CRM has no status — possible sync lag
+A01801,Missing status in CRM,CRM has no status — possible sync lag
+A01805,Missing status in CRM,CRM has no status — possible sync lag
+A01811,Missing status in CRM,CRM has no status — possible sync lag
+A01838,Missing status in CRM,CRM has no status — possible sync lag
+A01859,Missing status in CRM,CRM has no status — possible sync lag
+A01901,Missing status in CRM,CRM has no status — possible sync lag
+A01902,Missing status in CRM,CRM has no status — possible sync lag
+A01986,Missing status in CRM,CRM has no status — possible sync lag
+A02104,Missing status in CRM,CRM has no status — possible sync lag
+A02130,Missing status in CRM,CRM has no status — possible sync lag
+A02136,Missing status in CRM,CRM has no status — possible sync lag
+A02139,Missing status in CRM,CRM has no status — possible sync lag
+A02191,Missing status in CRM,CRM has no status — possible sync lag
+A02203,Missing status in CRM,CRM has no status — possible sync lag
+A02227,Missing status in CRM,CRM has no status — possible sync lag
+A02248,Missing status in CRM,CRM has no status — possible sync lag
+A02273,Missing status in CRM,CRM has no status — possible sync lag
+A02300,Missing status in CRM,CRM has no status — possible sync lag
+A02327,Missing status in CRM,CRM has no status — possible sync lag
+A02337,Missing status in CRM,CRM has no status — possible sync lag
+A02357,Missing status in CRM,CRM has no status — possible sync lag
+A02370,Missing status in CRM,CRM has no status — possible sync lag
+A02407,Missing status in CRM,CRM has no status — possible sync lag
+A02442,Missing status in CRM,CRM has no status — possible sync lag
+A02446,Missing status in CRM,CRM has no status — possible sync lag
+A02449,Missing status in CRM,CRM has no status — possible sync lag
+A02460,Missing status in CRM,CRM has no status — possible sync lag
+A02530,Missing status in CRM,CRM has no status — possible sync lag
+A02642,Missing status in CRM,CRM has no status — possible sync lag
+A02665,Missing status in CRM,CRM has no status — possible sync lag
+A02707,Missing status in CRM,CRM has no status — possible sync lag
+A02730,Missing status in CRM,CRM has no status — possible sync lag
+A02934,Missing status in CRM,CRM has no status — possible sync lag
+A03051,Missing status in CRM,CRM has no status — possible sync lag
+A03078,Missing status in CRM,CRM has no status — possible sync lag
+A03109,Missing status in CRM,CRM has no status — possible sync lag
+A03126,Missing status in CRM,CRM has no status — possible sync lag
+A03154,Missing status in CRM,CRM has no status — possible sync lag
+A03163,Missing status in CRM,CRM has no status — possible sync lag
+A03189,Missing status in CRM,CRM has no status — possible sync lag
+A03216,Missing status in CRM,CRM has no status — possible sync lag
+A03229,Missing status in CRM,CRM has no status — possible sync lag
+A03298,Missing status in CRM,CRM has no status — possible sync lag
+A03432,Missing status in CRM,CRM has no status — possible sync lag
+A03467,Missing status in CRM,CRM has no status — possible sync lag
+A03475,Missing status in CRM,CRM has no status — possible sync lag
+A03526,Missing status in CRM,CRM has no status — possible sync lag
+A03544,Missing status in CRM,CRM has no status — possible sync lag
+A03581,Missing status in CRM,CRM has no status — possible sync lag
+A03589,Missing status in CRM,CRM has no status — possible sync lag
+A03639,Missing status in CRM,CRM has no status — possible sync lag
+A03665,Missing status in CRM,CRM has no status — possible sync lag
+A03674,Missing status in CRM,CRM has no status — possible sync lag
+A03686,Missing status in CRM,CRM has no status — possible sync lag
+A03713,Missing status in CRM,CRM has no status — possible sync lag
+A03725,Missing status in CRM,CRM has no status — possible sync lag
+A03788,Missing status in CRM,CRM has no status — possible sync lag
+A03819,Missing status in CRM,CRM has no status — possible sync lag
+A03862,Missing status in CRM,CRM has no status — possible sync lag
+A03886,Missing status in CRM,CRM has no status — possible sync lag
+A03934,Missing status in CRM,CRM has no status — possible sync lag
+A03960,Missing status in CRM,CRM has no status — possible sync lag
+A03973,Missing status in CRM,CRM has no status — possible sync lag
+A03977,Missing status in CRM,CRM has no status — possible sync lag
+A03985,Missing status in CRM,CRM has no status — possible sync lag
+A00068,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A00138,Revenue discrepancy,OPS: AED 250 | CRM: AED 260 (diff: AED 10)
+A00205,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A00215,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A00322,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A00363,Revenue discrepancy,OPS: AED 200 | CRM: AED 210 (diff: AED 10)
+A00535,Revenue discrepancy,OPS: AED 350 | CRM: AED 360 (diff: AED 10)
+A00554,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A00592,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A00612,Revenue discrepancy,OPS: AED 300 | CRM: AED 310 (diff: AED 10)
+A00657,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A00662,Revenue discrepancy,OPS: AED 250 | CRM: AED 260 (diff: AED 10)
+A00727,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A00740,Revenue discrepancy,OPS: AED 200 | CRM: AED 210 (diff: AED 10)
+A00851,Revenue discrepancy,OPS: AED 350 | CRM: AED 360 (diff: AED 10)
+A00904,Revenue discrepancy,OPS: AED 200 | CRM: AED 210 (diff: AED 10)
+A00963,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A01065,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A01095,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A01097,Revenue discrepancy,OPS: AED 200 | CRM: AED 210 (diff: AED 10)
+A01103,Revenue discrepancy,OPS: AED 250 | CRM: AED 260 (diff: AED 10)
+A01140,Revenue discrepancy,OPS: AED 200 | CRM: AED 210 (diff: AED 10)
+A01194,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A01222,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A01227,Revenue discrepancy,OPS: AED 250 | CRM: AED 260 (diff: AED 10)
+A01249,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A01311,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A01327,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A01354,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A01386,Revenue discrepancy,OPS: AED 150 | CRM: AED 160 (diff: AED 10)
+A01390,Revenue discrepancy,OPS: AED 150 | CRM: AED 160 (diff: AED 10)
+A01502,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A01631,Revenue discrepancy,OPS: AED 200 | CRM: AED 210 (diff: AED 10)
+A01645,Revenue discrepancy,OPS: AED 300 | CRM: AED 310 (diff: AED 10)
+A01662,Revenue discrepancy,OPS: AED 300 | CRM: AED 310 (diff: AED 10)
+A01692,Revenue discrepancy,OPS: AED 300 | CRM: AED 310 (diff: AED 10)
+A01762,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A01889,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A01918,Revenue discrepancy,OPS: AED 350 | CRM: AED 360 (diff: AED 10)
+A01922,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A02058,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A02078,Revenue discrepancy,OPS: AED 220 | CRM: AED 230 (diff: AED 10)
+A02105,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A02213,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A02362,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A02382,Revenue discrepancy,OPS: AED 350 | CRM: AED 360 (diff: AED 10)
+A02511,Revenue discrepancy,OPS: AED 200 | CRM: AED 210 (diff: AED 10)
+A02598,Revenue discrepancy,OPS: AED 200 | CRM: AED 210 (diff: AED 10)
+A02604,Revenue discrepancy,OPS: AED 350 | CRM: AED 360 (diff: AED 10)
+A02663,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A02804,Revenue discrepancy,OPS: AED 250 | CRM: AED 260 (diff: AED 10)
+A02919,Revenue discrepancy,OPS: AED 220 | CRM: AED 230 (diff: AED 10)
+A02945,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A02968,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A02977,Revenue discrepancy,OPS: AED 220 | CRM: AED 230 (diff: AED 10)
+A03031,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A03137,Revenue discrepancy,OPS: AED 250 | CRM: AED 260 (diff: AED 10)
+A03178,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A03217,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A03226,Revenue discrepancy,OPS: AED 150 | CRM: AED 160 (diff: AED 10)
+A03260,Revenue discrepancy,OPS: AED 250 | CRM: AED 260 (diff: AED 10)
+A03266,Revenue discrepancy,OPS: AED 350 | CRM: AED 360 (diff: AED 10)
+A03319,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A03444,Revenue discrepancy,OPS: AED 250 | CRM: AED 260 (diff: AED 10)
+A03451,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A03511,Revenue discrepancy,OPS: AED 150 | CRM: AED 160 (diff: AED 10)
+A03607,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A03661,Revenue discrepancy,OPS: AED 300 | CRM: AED 310 (diff: AED 10)
+A03696,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A03750,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A03801,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A03852,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A03854,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A03913,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A03938,Revenue discrepancy,OPS: AED 400 | CRM: AED 410 (diff: AED 10)
+A03952,Revenue discrepancy,OPS: AED 0 | CRM: AED 10 (diff: AED 10)
+A00113,Scheduling conflict,Patient has 2+ completed appointments on same day
+A00241,Scheduling conflict,Patient has 2+ completed appointments on same day
+A00371,Scheduling conflict,Patient has 2+ completed appointments on same day
+A00412,Scheduling conflict,Patient has 2+ completed appointments on same day
+A01192,Scheduling conflict,Patient has 2+ completed appointments on same day
+A02381,Scheduling conflict,Patient has 2+ completed appointments on same day
+A02986,Scheduling conflict,Patient has 2+ completed appointments on same day
+A03444,Scheduling conflict,Patient has 2+ completed appointments on same day
+A03518,Scheduling conflict,Patient has 2+ completed appointments on same day
+A03657,Scheduling conflict,Patient has 2+ completed appointments on same day
+A00004,Follow-up gap,Follow-up required but no reminder sent
+A00013,Follow-up gap,Follow-up required but no reminder sent
+A00027,Follow-up gap,Follow-up required but no reminder sent
+A00028,Follow-up gap,Follow-up required but no reminder sent
+A00029,Follow-up gap,Follow-up required but no reminder sent
+A00036,Follow-up gap,Follow-up required but no reminder sent
+A00054,Follow-up gap,Follow-up required but no reminder sent
+A00063,Follow-up gap,Follow-up required but no reminder sent
+A00069,Follow-up gap,Follow-up required but no reminder sent
+A00091,Follow-up gap,Follow-up required but no reminder sent
+A00113,Follow-up gap,Follow-up required but no reminder sent
+A00122,Follow-up gap,Follow-up required but no reminder sent
+A00125,Follow-up gap,Follow-up required but no reminder sent
+A00141,Follow-up gap,Follow-up required but no reminder sent
+A00148,Follow-up gap,Follow-up required but no reminder sent
+A00173,Follow-up gap,Follow-up required but no reminder sent
+A00202,Follow-up gap,Follow-up required but no reminder sent
+A00204,Follow-up gap,Follow-up required but no reminder sent
+A00232,Follow-up gap,Follow-up required but no reminder sent
+A00246,Follow-up gap,Follow-up required but no reminder sent
+A00253,Follow-up gap,Follow-up required but no reminder sent
+A00261,Follow-up gap,Follow-up required but no reminder sent
+A00263,Follow-up gap,Follow-up required but no reminder sent
+A00270,Follow-up gap,Follow-up required but no reminder sent
+A00302,Follow-up gap,Follow-up required but no reminder sent
+A00306,Follow-up gap,Follow-up required but no reminder sent
+A00310,Follow-up gap,Follow-up required but no reminder sent
+A00328,Follow-up gap,Follow-up required but no reminder sent
+A00340,Follow-up gap,Follow-up required but no reminder sent
+A00344,Follow-up gap,Follow-up required but no reminder sent
+A00361,Follow-up gap,Follow-up required but no reminder sent
+A00374,Follow-up gap,Follow-up required but no reminder sent
+A00375,Follow-up gap,Follow-up required but no reminder sent
+A00382,Follow-up gap,Follow-up required but no reminder sent
+A00407,Follow-up gap,Follow-up required but no reminder sent
+A00419,Follow-up gap,Follow-up required but no reminder sent
+A00427,Follow-up gap,Follow-up required but no reminder sent
+A00431,Follow-up gap,Follow-up required but no reminder sent
+A00439,Follow-up gap,Follow-up required but no reminder sent
+A00446,Follow-up gap,Follow-up required but no reminder sent
+A00459,Follow-up gap,Follow-up required but no reminder sent
+A00478,Follow-up gap,Follow-up required but no reminder sent
+A00490,Follow-up gap,Follow-up required but no reminder sent
+A00498,Follow-up gap,Follow-up required but no reminder sent
+A00512,Follow-up gap,Follow-up required but no reminder sent
+A00526,Follow-up gap,Follow-up required but no reminder sent
+A00528,Follow-up gap,Follow-up required but no reminder sent
+A00538,Follow-up gap,Follow-up required but no reminder sent
+A00539,Follow-up gap,Follow-up required but no reminder sent
+A00540,Follow-up gap,Follow-up required but no reminder sent
+A00543,Follow-up gap,Follow-up required but no reminder sent
+A00552,Follow-up gap,Follow-up required but no reminder sent
+A00557,Follow-up gap,Follow-up required but no reminder sent
+A00572,Follow-up gap,Follow-up required but no reminder sent
+A00581,Follow-up gap,Follow-up required but no reminder sent
+A00582,Follow-up gap,Follow-up required but no reminder sent
+A00601,Follow-up gap,Follow-up required but no reminder sent
+A00607,Follow-up gap,Follow-up required but no reminder sent
+A00620,Follow-up gap,Follow-up required but no reminder sent
+A00629,Follow-up gap,Follow-up required but no reminder sent
+A00632,Follow-up gap,Follow-up required but no reminder sent
+A00635,Follow-up gap,Follow-up required but no reminder sent
+A00656,Follow-up gap,Follow-up required but no reminder sent
+A00658,Follow-up gap,Follow-up required but no reminder sent
+A00662,Follow-up gap,Follow-up required but no reminder sent
+A00663,Follow-up gap,Follow-up required but no reminder sent
+A00667,Follow-up gap,Follow-up required but no reminder sent
+A00671,Follow-up gap,Follow-up required but no reminder sent
+A00673,Follow-up gap,Follow-up required but no reminder sent
+A00699,Follow-up gap,Follow-up required but no reminder sent
+A00706,Follow-up gap,Follow-up required but no reminder sent
+A00708,Follow-up gap,Follow-up required but no reminder sent
+A00709,Follow-up gap,Follow-up required but no reminder sent
+A00712,Follow-up gap,Follow-up required but no reminder sent
+A00722,Follow-up gap,Follow-up required but no reminder sent
+A00728,Follow-up gap,Follow-up required but no reminder sent
+A00746,Follow-up gap,Follow-up required but no reminder sent
+A00770,Follow-up gap,Follow-up required but no reminder sent
+A00784,Follow-up gap,Follow-up required but no reminder sent
+A00794,Follow-up gap,Follow-up required but no reminder sent
+A00795,Follow-up gap,Follow-up required but no reminder sent
+A00802,Follow-up gap,Follow-up required but no reminder sent
+A00817,Follow-up gap,Follow-up required but no reminder sent
+A00818,Follow-up gap,Follow-up required but no reminder sent
+A00819,Follow-up gap,Follow-up required but no reminder sent
+A00822,Follow-up gap,Follow-up required but no reminder sent
+A00824,Follow-up gap,Follow-up required but no reminder sent
+A00827,Follow-up gap,Follow-up required but no reminder sent
+A00851,Follow-up gap,Follow-up required but no reminder sent
+A00883,Follow-up gap,Follow-up required but no reminder sent
+A00890,Follow-up gap,Follow-up required but no reminder sent
+A00903,Follow-up gap,Follow-up required but no reminder sent
+A00906,Follow-up gap,Follow-up required but no reminder sent
+A00918,Follow-up gap,Follow-up required but no reminder sent
+A00923,Follow-up gap,Follow-up required but no reminder sent
+A00928,Follow-up gap,Follow-up required but no reminder sent
+A00929,Follow-up gap,Follow-up required but no reminder sent
+A00933,Follow-up gap,Follow-up required but no reminder sent
+A00939,Follow-up gap,Follow-up required but no reminder sent
+A00944,Follow-up gap,Follow-up required but no reminder sent
+A00951,Follow-up gap,Follow-up required but no reminder sent
+A00974,Follow-up gap,Follow-up required but no reminder sent
+A00979,Follow-up gap,Follow-up required but no reminder sent
+A00990,Follow-up gap,Follow-up required but no reminder sent
+A00993,Follow-up gap,Follow-up required but no reminder sent
+A01003,Follow-up gap,Follow-up required but no reminder sent
+A01010,Follow-up gap,Follow-up required but no reminder sent
+A01013,Follow-up gap,Follow-up required but no reminder sent
+A01031,Follow-up gap,Follow-up required but no reminder sent
+A01044,Follow-up gap,Follow-up required but no reminder sent
+A01056,Follow-up gap,Follow-up required but no reminder sent
+A01058,Follow-up gap,Follow-up required but no reminder sent
+A01063,Follow-up gap,Follow-up required but no reminder sent
+A01082,Follow-up gap,Follow-up required but no reminder sent
+A01102,Follow-up gap,Follow-up required but no reminder sent
+A01107,Follow-up gap,Follow-up required but no reminder sent
+A01108,Follow-up gap,Follow-up required but no reminder sent
+A01112,Follow-up gap,Follow-up required but no reminder sent
+A01113,Follow-up gap,Follow-up required but no reminder sent
+A01120,Follow-up gap,Follow-up required but no reminder sent
+A01122,Follow-up gap,Follow-up required but no reminder sent
+A01137,Follow-up gap,Follow-up required but no reminder sent
+A01139,Follow-up gap,Follow-up required but no reminder sent
+A01144,Follow-up gap,Follow-up required but no reminder sent
+A01149,Follow-up gap,Follow-up required but no reminder sent
+A01155,Follow-up gap,Follow-up required but no reminder sent
+A01160,Follow-up gap,Follow-up required but no reminder sent
+A01167,Follow-up gap,Follow-up required but no reminder sent
+A01172,Follow-up gap,Follow-up required but no reminder sent
+A01190,Follow-up gap,Follow-up required but no reminder sent
+A01193,Follow-up gap,Follow-up required but no reminder sent
+A01198,Follow-up gap,Follow-up required but no reminder sent
+A01201,Follow-up gap,Follow-up required but no reminder sent
+A01217,Follow-up gap,Follow-up required but no reminder sent
+A01220,Follow-up gap,Follow-up required but no reminder sent
+A01227,Follow-up gap,Follow-up required but no reminder sent
+A01230,Follow-up gap,Follow-up required but no reminder sent
+A01236,Follow-up gap,Follow-up required but no reminder sent
+A01258,Follow-up gap,Follow-up required but no reminder sent
+A01304,Follow-up gap,Follow-up required but no reminder sent
+A01307,Follow-up gap,Follow-up required but no reminder sent
+A01311,Follow-up gap,Follow-up required but no reminder sent
+A01317,Follow-up gap,Follow-up required but no reminder sent
+A01320,Follow-up gap,Follow-up required but no reminder sent
+A01324,Follow-up gap,Follow-up required but no reminder sent
+A01333,Follow-up gap,Follow-up required but no reminder sent
+A01334,Follow-up gap,Follow-up required but no reminder sent
+A01341,Follow-up gap,Follow-up required but no reminder sent
+A01350,Follow-up gap,Follow-up required but no reminder sent
+A01356,Follow-up gap,Follow-up required but no reminder sent
+A01357,Follow-up gap,Follow-up required but no reminder sent
+A01358,Follow-up gap,Follow-up required but no reminder sent
+A01365,Follow-up gap,Follow-up required but no reminder sent
+A01367,Follow-up gap,Follow-up required but no reminder sent
+A01369,Follow-up gap,Follow-up required but no reminder sent
+A01371,Follow-up gap,Follow-up required but no reminder sent
+A01395,Follow-up gap,Follow-up required but no reminder sent
+A01396,Follow-up gap,Follow-up required but no reminder sent
+A01428,Follow-up gap,Follow-up required but no reminder sent
+A01442,Follow-up gap,Follow-up required but no reminder sent
+A01443,Follow-up gap,Follow-up required but no reminder sent
+A01445,Follow-up gap,Follow-up required but no reminder sent
+A01452,Follow-up gap,Follow-up required but no reminder sent
+A01454,Follow-up gap,Follow-up required but no reminder sent
+A01486,Follow-up gap,Follow-up required but no reminder sent
+A01492,Follow-up gap,Follow-up required but no reminder sent
+A01505,Follow-up gap,Follow-up required but no reminder sent
+A01518,Follow-up gap,Follow-up required but no reminder sent
+A01530,Follow-up gap,Follow-up required but no reminder sent
+A01533,Follow-up gap,Follow-up required but no reminder sent
+A01535,Follow-up gap,Follow-up required but no reminder sent
+A01552,Follow-up gap,Follow-up required but no reminder sent
+A01556,Follow-up gap,Follow-up required but no reminder sent
+A01563,Follow-up gap,Follow-up required but no reminder sent
+A01564,Follow-up gap,Follow-up required but no reminder sent
+A01574,Follow-up gap,Follow-up required but no reminder sent
+A01586,Follow-up gap,Follow-up required but no reminder sent
+A01596,Follow-up gap,Follow-up required but no reminder sent
+A01604,Follow-up gap,Follow-up required but no reminder sent
+A01606,Follow-up gap,Follow-up required but no reminder sent
+A01615,Follow-up gap,Follow-up required but no reminder sent
+A01625,Follow-up gap,Follow-up required but no reminder sent
+A01648,Follow-up gap,Follow-up required but no reminder sent
+A01649,Follow-up gap,Follow-up required but no reminder sent
+A01652,Follow-up gap,Follow-up required but no reminder sent
+A01659,Follow-up gap,Follow-up required but no reminder sent
+A01673,Follow-up gap,Follow-up required but no reminder sent
+A01692,Follow-up gap,Follow-up required but no reminder sent
+A01697,Follow-up gap,Follow-up required but no reminder sent
+A01733,Follow-up gap,Follow-up required but no reminder sent
+A01738,Follow-up gap,Follow-up required but no reminder sent
+A01739,Follow-up gap,Follow-up required but no reminder sent
+A01743,Follow-up gap,Follow-up required but no reminder sent
+A01744,Follow-up gap,Follow-up required but no reminder sent
+A01751,Follow-up gap,Follow-up required but no reminder sent
+A01777,Follow-up gap,Follow-up required but no reminder sent
+A01786,Follow-up gap,Follow-up required but no reminder sent
+A01791,Follow-up gap,Follow-up required but no reminder sent
+A01810,Follow-up gap,Follow-up required but no reminder sent
+A01814,Follow-up gap,Follow-up required but no reminder sent
+A01826,Follow-up gap,Follow-up required but no reminder sent
+A01832,Follow-up gap,Follow-up required but no reminder sent
+A01835,Follow-up gap,Follow-up required but no reminder sent
+A01862,Follow-up gap,Follow-up required but no reminder sent
+A01870,Follow-up gap,Follow-up required but no reminder sent
+A01888,Follow-up gap,Follow-up required but no reminder sent
+A01902,Follow-up gap,Follow-up required but no reminder sent
+A01912,Follow-up gap,Follow-up required but no reminder sent
+A01921,Follow-up gap,Follow-up required but no reminder sent
+A01922,Follow-up gap,Follow-up required but no reminder sent
+A01957,Follow-up gap,Follow-up required but no reminder sent
+A01958,Follow-up gap,Follow-up required but no reminder sent
+A01975,Follow-up gap,Follow-up required but no reminder sent
+A01981,Follow-up gap,Follow-up required but no reminder sent
+A01982,Follow-up gap,Follow-up required but no reminder sent
+A01989,Follow-up gap,Follow-up required but no reminder sent
+A01997,Follow-up gap,Follow-up required but no reminder sent
+A02003,Follow-up gap,Follow-up required but no reminder sent
+A02004,Follow-up gap,Follow-up required but no reminder sent
+A02007,Follow-up gap,Follow-up required but no reminder sent
+A02026,Follow-up gap,Follow-up required but no reminder sent
+A02030,Follow-up gap,Follow-up required but no reminder sent
+A02082,Follow-up gap,Follow-up required but no reminder sent
+A02088,Follow-up gap,Follow-up required but no reminder sent
+A02111,Follow-up gap,Follow-up required but no reminder sent
+A02144,Follow-up gap,Follow-up required but no reminder sent
+A02161,Follow-up gap,Follow-up required but no reminder sent
+A02171,Follow-up gap,Follow-up required but no reminder sent
+A02176,Follow-up gap,Follow-up required but no reminder sent
+A02178,Follow-up gap,Follow-up required but no reminder sent
+A02183,Follow-up gap,Follow-up required but no reminder sent
+A02192,Follow-up gap,Follow-up required but no reminder sent
+A02196,Follow-up gap,Follow-up required but no reminder sent
+A02202,Follow-up gap,Follow-up required but no reminder sent
+A02212,Follow-up gap,Follow-up required but no reminder sent
+A02217,Follow-up gap,Follow-up required but no reminder sent
+A02218,Follow-up gap,Follow-up required but no reminder sent
+A02220,Follow-up gap,Follow-up required but no reminder sent
+A02222,Follow-up gap,Follow-up required but no reminder sent
+A02231,Follow-up gap,Follow-up required but no reminder sent
+A02245,Follow-up gap,Follow-up required but no reminder sent
+A02249,Follow-up gap,Follow-up required but no reminder sent
+A02256,Follow-up gap,Follow-up required but no reminder sent
+A02258,Follow-up gap,Follow-up required but no reminder sent
+A02260,Follow-up gap,Follow-up required but no reminder sent
+A02264,Follow-up gap,Follow-up required but no reminder sent
+A02277,Follow-up gap,Follow-up required but no reminder sent
+A02281,Follow-up gap,Follow-up required but no reminder sent
+A02285,Follow-up gap,Follow-up required but no reminder sent
+A02313,Follow-up gap,Follow-up required but no reminder sent
+A02315,Follow-up gap,Follow-up required but no reminder sent
+A02324,Follow-up gap,Follow-up required but no reminder sent
+A02329,Follow-up gap,Follow-up required but no reminder sent
+A02338,Follow-up gap,Follow-up required but no reminder sent
+A02341,Follow-up gap,Follow-up required but no reminder sent
+A02356,Follow-up gap,Follow-up required but no reminder sent
+A02381,Follow-up gap,Follow-up required but no reminder sent
+A02391,Follow-up gap,Follow-up required but no reminder sent
+A02399,Follow-up gap,Follow-up required but no reminder sent
+A02402,Follow-up gap,Follow-up required but no reminder sent
+A02406,Follow-up gap,Follow-up required but no reminder sent
+A02430,Follow-up gap,Follow-up required but no reminder sent
+A02458,Follow-up gap,Follow-up required but no reminder sent
+A02486,Follow-up gap,Follow-up required but no reminder sent
+A02499,Follow-up gap,Follow-up required but no reminder sent
+A02504,Follow-up gap,Follow-up required but no reminder sent
+A02514,Follow-up gap,Follow-up required but no reminder sent
+A02529,Follow-up gap,Follow-up required but no reminder sent
+A02530,Follow-up gap,Follow-up required but no reminder sent
+A02532,Follow-up gap,Follow-up required but no reminder sent
+A02534,Follow-up gap,Follow-up required but no reminder sent
+A02547,Follow-up gap,Follow-up required but no reminder sent
+A02554,Follow-up gap,Follow-up required but no reminder sent
+A02562,Follow-up gap,Follow-up required but no reminder sent
+A02582,Follow-up gap,Follow-up required but no reminder sent
+A02583,Follow-up gap,Follow-up required but no reminder sent
+A02607,Follow-up gap,Follow-up required but no reminder sent
+A02644,Follow-up gap,Follow-up required but no reminder sent
+A02656,Follow-up gap,Follow-up required but no reminder sent
+A02669,Follow-up gap,Follow-up required but no reminder sent
+A02679,Follow-up gap,Follow-up required but no reminder sent
+A02691,Follow-up gap,Follow-up required but no reminder sent
+A02693,Follow-up gap,Follow-up required but no reminder sent
+A02695,Follow-up gap,Follow-up required but no reminder sent
+A02698,Follow-up gap,Follow-up required but no reminder sent
+A02711,Follow-up gap,Follow-up required but no reminder sent
+A02715,Follow-up gap,Follow-up required but no reminder sent
+A02716,Follow-up gap,Follow-up required but no reminder sent
+A02720,Follow-up gap,Follow-up required but no reminder sent
+A02728,Follow-up gap,Follow-up required but no reminder sent
+A02731,Follow-up gap,Follow-up required but no reminder sent
+A02743,Follow-up gap,Follow-up required but no reminder sent
+A02752,Follow-up gap,Follow-up required but no reminder sent
+A02757,Follow-up gap,Follow-up required but no reminder sent
+A02767,Follow-up gap,Follow-up required but no reminder sent
+A02771,Follow-up gap,Follow-up required but no reminder sent
+A02775,Follow-up gap,Follow-up required but no reminder sent
+A02782,Follow-up gap,Follow-up required but no reminder sent
+A02793,Follow-up gap,Follow-up required but no reminder sent
+A02811,Follow-up gap,Follow-up required but no reminder sent
+A02839,Follow-up gap,Follow-up required but no reminder sent
+A02840,Follow-up gap,Follow-up required but no reminder sent
+A02848,Follow-up gap,Follow-up required but no reminder sent
+A02863,Follow-up gap,Follow-up required but no reminder sent
+A02880,Follow-up gap,Follow-up required but no reminder sent
+A02888,Follow-up gap,Follow-up required but no reminder sent
+A02904,Follow-up gap,Follow-up required but no reminder sent
+A02905,Follow-up gap,Follow-up required but no reminder sent
+A02913,Follow-up gap,Follow-up required but no reminder sent
+A02916,Follow-up gap,Follow-up required but no reminder sent
+A02941,Follow-up gap,Follow-up required but no reminder sent
+A02960,Follow-up gap,Follow-up required but no reminder sent
+A02972,Follow-up gap,Follow-up required but no reminder sent
+A02973,Follow-up gap,Follow-up required but no reminder sent
+A02980,Follow-up gap,Follow-up required but no reminder sent
+A02981,Follow-up gap,Follow-up required but no reminder sent
+A02986,Follow-up gap,Follow-up required but no reminder sent
+A02987,Follow-up gap,Follow-up required but no reminder sent
+A02990,Follow-up gap,Follow-up required but no reminder sent
+A03007,Follow-up gap,Follow-up required but no reminder sent
+A03015,Follow-up gap,Follow-up required but no reminder sent
+A03019,Follow-up gap,Follow-up required but no reminder sent
+A03021,Follow-up gap,Follow-up required but no reminder sent
+A03029,Follow-up gap,Follow-up required but no reminder sent
+A03064,Follow-up gap,Follow-up required but no reminder sent
+A03078,Follow-up gap,Follow-up required but no reminder sent
+A03083,Follow-up gap,Follow-up required but no reminder sent
+A03116,Follow-up gap,Follow-up required but no reminder sent
+A03138,Follow-up gap,Follow-up required but no reminder sent
+A03158,Follow-up gap,Follow-up required but no reminder sent
+A03188,Follow-up gap,Follow-up required but no reminder sent
+A03215,Follow-up gap,Follow-up required but no reminder sent
+A03219,Follow-up gap,Follow-up required but no reminder sent
+A03247,Follow-up gap,Follow-up required but no reminder sent
+A03248,Follow-up gap,Follow-up required but no reminder sent
+A03264,Follow-up gap,Follow-up required but no reminder sent
+A03265,Follow-up gap,Follow-up required but no reminder sent
+A03279,Follow-up gap,Follow-up required but no reminder sent
+A03284,Follow-up gap,Follow-up required but no reminder sent
+A03286,Follow-up gap,Follow-up required but no reminder sent
+A03291,Follow-up gap,Follow-up required but no reminder sent
+A03308,Follow-up gap,Follow-up required but no reminder sent
+A03311,Follow-up gap,Follow-up required but no reminder sent
+A03316,Follow-up gap,Follow-up required but no reminder sent
+A03319,Follow-up gap,Follow-up required but no reminder sent
+A03334,Follow-up gap,Follow-up required but no reminder sent
+A03339,Follow-up gap,Follow-up required but no reminder sent
+A03355,Follow-up gap,Follow-up required but no reminder sent
+A03357,Follow-up gap,Follow-up required but no reminder sent
+A03362,Follow-up gap,Follow-up required but no reminder sent
+A03363,Follow-up gap,Follow-up required but no reminder sent
+A03365,Follow-up gap,Follow-up required but no reminder sent
+A03376,Follow-up gap,Follow-up required but no reminder sent
+A03393,Follow-up gap,Follow-up required but no reminder sent
+A03396,Follow-up gap,Follow-up required but no reminder sent
+A03419,Follow-up gap,Follow-up required but no reminder sent
+A03422,Follow-up gap,Follow-up required but no reminder sent
+A03423,Follow-up gap,Follow-up required but no reminder sent
+A03424,Follow-up gap,Follow-up required but no reminder sent
+A03428,Follow-up gap,Follow-up required but no reminder sent
+A03463,Follow-up gap,Follow-up required but no reminder sent
+A03467,Follow-up gap,Follow-up required but no reminder sent
+A03493,Follow-up gap,Follow-up required but no reminder sent
+A03504,Follow-up gap,Follow-up required but no reminder sent
+A03529,Follow-up gap,Follow-up required but no reminder sent
+A03552,Follow-up gap,Follow-up required but no reminder sent
+A03554,Follow-up gap,Follow-up required but no reminder sent
+A03574,Follow-up gap,Follow-up required but no reminder sent
+A03580,Follow-up gap,Follow-up required but no reminder sent
+A03585,Follow-up gap,Follow-up required but no reminder sent
+A03593,Follow-up gap,Follow-up required but no reminder sent
+A03597,Follow-up gap,Follow-up required but no reminder sent
+A03612,Follow-up gap,Follow-up required but no reminder sent
+A03625,Follow-up gap,Follow-up required but no reminder sent
+A03632,Follow-up gap,Follow-up required but no reminder sent
+A03645,Follow-up gap,Follow-up required but no reminder sent
+A03654,Follow-up gap,Follow-up required but no reminder sent
+A03657,Follow-up gap,Follow-up required but no reminder sent
+A03661,Follow-up gap,Follow-up required but no reminder sent
+A03670,Follow-up gap,Follow-up required but no reminder sent
+A03673,Follow-up gap,Follow-up required but no reminder sent
+A03692,Follow-up gap,Follow-up required but no reminder sent
+A03704,Follow-up gap,Follow-up required but no reminder sent
+A03707,Follow-up gap,Follow-up required but no reminder sent
+A03731,Follow-up gap,Follow-up required but no reminder sent
+A03733,Follow-up gap,Follow-up required but no reminder sent
+A03761,Follow-up gap,Follow-up required but no reminder sent
+A03782,Follow-up gap,Follow-up required but no reminder sent
+A03789,Follow-up gap,Follow-up required but no reminder sent
+A03802,Follow-up gap,Follow-up required but no reminder sent
+A03807,Follow-up gap,Follow-up required but no reminder sent
+A03820,Follow-up gap,Follow-up required but no reminder sent
+A03826,Follow-up gap,Follow-up required but no reminder sent
+A03834,Follow-up gap,Follow-up required but no reminder sent
+A03839,Follow-up gap,Follow-up required but no reminder sent
+A03844,Follow-up gap,Follow-up required but no reminder sent
+A03855,Follow-up gap,Follow-up required but no reminder sent
+A03866,Follow-up gap,Follow-up required but no reminder sent
+A03879,Follow-up gap,Follow-up required but no reminder sent
+A03919,Follow-up gap,Follow-up required but no reminder sent
+A03922,Follow-up gap,Follow-up required but no reminder sent
+A03926,Follow-up gap,Follow-up required but no reminder sent
+A03932,Follow-up gap,Follow-up required but no reminder sent
+A03937,Follow-up gap,Follow-up required but no reminder sent
+A03940,Follow-up gap,Follow-up required but no reminder sent
+A03948,Follow-up gap,Follow-up required but no reminder sent
+A03953,Follow-up gap,Follow-up required but no reminder sent
+A03967,Follow-up gap,Follow-up required but no reminder sent
+A03986,Follow-up gap,Follow-up required but no reminder sent
