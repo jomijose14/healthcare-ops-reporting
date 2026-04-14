@@ -3,3 +3,5 @@ echo __pycache__/ >> .gitignore
 echo *.json >> gitignore
 echo .env >> .gitignore
 echo data/cleaned/ >> .gitignore
+Set GOOGLE_CREDENTIALS_PATH = C:\Users\jomij\healthcare-ops-key.json
+set GOOGLE_SHEET_URL=https://docs.google.com/spreadsheets/d/1Bzud8s9jsoAaGbkopMrQhKftJa1F1_6Z3MnwJRfvy_0/edit?usp=sharing
